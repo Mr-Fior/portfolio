@@ -259,6 +259,6 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
-        padding: 3rem;
+        gap: 3rem;
     }
 }
